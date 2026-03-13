@@ -1,0 +1,2 @@
+# kodehode
+repository for kurset
