@@ -1,38 +1,38 @@
-# Frontend Learning Journey 🚀
+# Frontend Læringsreise 🚀
 
-Welcome to my **Frontend Development Learning Repository**.
-This repository contains projects, exercises, and notes from the course where I learn the fundamentals of **modern frontend development**.
+Velkommen til mitt **Frontend-utviklings repository**.
+Dette repositoryet inneholder oppgaver, prosjekter og notater fra kurset der jeg lærer **moderne frontend-utvikling**.
 
-The goal of this repo is to track my progress and build practical experience with web technologies.
+Målet med dette repoet er å følge utviklingen min og bygge praktisk erfaring med webteknologier.
 
 ---
 
-## 📚 What I'm Learning
+## 📚 Hva jeg lærer
 
 * HTML5
 * CSS3
-* Responsive Design
+* Responsivt design
 * JavaScript
-* Git & GitHub
-* Web Development Best Practices
+* Git og GitHub
+* Beste praksis for webutvikling
 
 ---
 
-## 📂 Repository Structure
+## 📂 Struktur på repositoryet
 
 ```
 frontend-course/
 │
-├── html/          # HTML exercises and examples
-├── css/           # CSS styling and layouts
-├── javascript/    # JavaScript practice
-├── projects/      # Small frontend projects
-└── notes/         # Personal learning notes
+├── html/          # HTML-øvelser og eksempler
+├── css/           # CSS-styling og layout
+├── javascript/    # JavaScript-øving
+├── prosjekter/    # Små frontend-prosjekter
+└── notater/       # Egne notater fra kurset
 ```
 
 ---
 
-## 🛠 Technologies Used
+## 🛠 Teknologier brukt
 
 * HTML5
 * CSS3
@@ -42,41 +42,41 @@ frontend-course/
 
 ---
 
-## 🎯 Goals
+## 🎯 Mål
 
-* Understand core frontend concepts
-* Build responsive websites
-* Practice JavaScript fundamentals
-* Create small real-world projects
-* Improve problem solving in web development
+* Forstå grunnleggende frontend-konsepter
+* Lage responsive nettsider
+* Øve på JavaScript
+* Lage små prosjekter fra virkeligheten
+* Bli bedre på problemløsing innen webutvikling
 
 ---
 
-## 📌 Projects
+## 📌 Prosjekter
 
-Some of the projects in this repository include:
+Noen av prosjektene i dette repositoryet inkluderer:
 
-* Simple landing pages
+* Enkle landingssider
 * Responsive layouts
-* JavaScript mini apps
-* UI components
+* JavaScript mini-apper
+* UI-komponenter
 
-More projects will be added as I continue learning.
-
----
-
-## 📈 Progress
-
-This repository will be **continuously updated** as I progress through the course.
+Flere prosjekter vil bli lagt til etter hvert som jeg lærer mer.
 
 ---
 
-## 🤝 Contributions
+## 📈 Fremgang
 
-This is a personal learning repository, but feedback and suggestions are welcome!
+Dette repositoryet vil bli **oppdatert kontinuerlig** mens jeg går gjennom kurset.
 
 ---
 
-## 📄 License
+## 🤝 Bidrag
 
-This project is open-source and available under the **MIT License**.
+Dette er et personlig læringsrepo, men tilbakemeldinger og forslag er alltid velkomne.
+
+---
+
+## 📄 Lisens
+
+Dette prosjektet er open-source og tilgjengelig under **MIT-lisensen**.
