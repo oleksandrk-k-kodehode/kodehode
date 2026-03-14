@@ -75,8 +75,3 @@ Dette repositoryet vil bli **oppdatert kontinuerlig** mens jeg går gjennom kurs
 
 Dette er et personlig læringsrepo, men tilbakemeldinger og forslag er alltid velkomne.
 
----
-
-## 📄 Lisens
-
-Dette prosjektet er open-source og tilgjengelig under **MIT-lisensen**.
